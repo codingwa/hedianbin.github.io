@@ -14,13 +14,13 @@ url: "https://hedianbin.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
-github_username:  4778141
+twitter_username: #hedianbin
+facebook_username: #dianbin.he
+github_username:  hedianbin
 email: 4778141@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
+weibo_username: 5429143636
+zhihu_username: wo-bu-xin-39
+linkedIn_username: 殿斌-何-92928a160
 dribbble_username:
 
 description_footer: 来自何殿斌的个人专栏！
@@ -35,8 +35,8 @@ disqus_shortname: #gaohaoyang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+baidu_tongji_id: 35d22596ff8e303b1507845453ae8863
+google_analytics_id: UA-125912847-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
