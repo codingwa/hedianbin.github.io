@@ -15,8 +15,11 @@ tags: JavaScript Array 算法 慕课网
 
 创立时间
 2007年 google作为20%项目开始研发 
+
 2009年11月10日 开源，获得TIOBE年度语言 
+
 2012年3月28日 发布Go1.0版本 
+
 2016年8月18日 发布Go1.7版本
 
 ### 1.1 什么是Golang
@@ -24,6 +27,8 @@ tags: JavaScript Array 算法 慕课网
 Go也被称为Golang，它是由谷歌创建的一种开源、编译和静态类型的编程语言。
 
 Golang的主要目标是使高可用性和可伸缩的web应用程序的开发变得简单易行。
+
+
 
 ### 1.2 为什么选择Golang
 
@@ -212,19 +217,19 @@ func main() {
 方式一：使用go run命令
 
 	step1：使用快捷键win+R，输入cmd打开命令行提示符
-
+	
 	step2：进入helloworld.go所在的目录
-
+	
 	step3：输入go run helloworld.go命令并观察运行结果。
 
 方式二：使用go build命令
 
 	step1：使用快捷键win+R，输入cmd打开命令行提示符
-
+	
 	step2：进入helloworld.go所在的目录
-
+	
 	step3：输入go build helloworld.go命令进行编译，产生同名的helloworld.exe文件
-
+	
 	step4：输入helloworld.exe，执行
 
 
@@ -232,6 +237,7 @@ func main() {
 方式三：使用 go playground 
 
 	step1：打开一下网址https://play.golang.org/
+
 
 	
 
