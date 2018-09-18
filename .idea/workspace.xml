@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1269d847-bebf-4946-b8ad-e2abecc48bb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/3collections.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/collections.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,10 +19,10 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -233,6 +234,7 @@
       <workItem from="1537190412497" duration="720000" />
       <workItem from="1537191646985" duration="9864000" />
       <workItem from="1537269846760" duration="32000" />
+      <workItem from="1537270756770" duration="410000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1537193365662</created>
@@ -245,7 +247,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10616000" />
+    <option name="totallyTimeSpent" value="11026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="706" extended-state="0" />
