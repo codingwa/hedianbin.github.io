@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1269d847-bebf-4946-b8ad-e2abecc48bb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_backToTop.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_demo.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_footer.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_header.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_index.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_page.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_post.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_reset.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_scrollbar.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/684e149ae318e6e542380da71424748c7b1c7545/_syntax-highlighting.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,29 +17,30 @@
     <session id="-590388476">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="3" />
-          <entry key="html" value="22" />
-          <entry key="js" value="5" />
+          <entry key="html" value="29" />
+          <entry key="js" value="9" />
           <entry key="json" value="1" />
           <entry key="markdown" value="1" />
-          <entry key="md" value="12" />
+          <entry key="md" value="19" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="22" />
+          <entry key="HTML" value="29" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Markdown" value="11" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Markdown" value="18" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="YAML" value="5" />
         </counts>
@@ -76,20 +68,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="58" column="16" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+        <entry file="file://$PROJECT_DIR$/js/waterfall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+            <state relative-caret-position="141">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,7 +183,17 @@
             <path>
               <item name="hedianbin.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hedianbin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_drafts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hedianbin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hedianbin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hedianbin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hedianbin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +231,8 @@
       <option name="presentableId" value="Default" />
       <updated>1537190411053</updated>
       <workItem from="1537190412497" duration="720000" />
-      <workItem from="1537191646985" duration="6726000" />
+      <workItem from="1537191646985" duration="9864000" />
+      <workItem from="1537269846760" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1537193365662</created>
@@ -248,12 +245,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7446000" />
+    <option name="totallyTimeSpent" value="10616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="706" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="-1334" y="33" width="238" height="698" id="Project" order="0" visible="true" weight="0.28773233" />
+      <window_info active="true" content_ui="combo" x="-1334" y="33" width="238" height="698" id="Project" order="0" visible="true" weight="0.21635687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -319,85 +316,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-286" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/4about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1010" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/1category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/3demo.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/3collections.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/2tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2016/01/01/History-API/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/pageContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2383">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2016/01/01/History-API/index.html" />
     <entry file="file://$PROJECT_DIR$/js/smooth-scroll.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/waterfall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3335">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/backToTop.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/comments.html">
@@ -418,37 +343,9 @@
     <entry file="file://$PROJECT_DIR$/_includes/previousAndNext.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="9" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-exchange.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -459,32 +356,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-17-web-app.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tag/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2324" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/CNAME" />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-17-web-app.md" />
+    <entry file="file://$PROJECT_DIR$/_site/tag/index.html" />
     <entry file="file://$PROJECT_DIR$/_includes/tag.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/category.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -497,17 +372,100 @@
     <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="58" column="16" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/_includes/backToTop.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/ES2015-note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/WebSocket.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/0archives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/1category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/masonry.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pageContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/category.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3collections.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1030" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/4about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/waterfall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
