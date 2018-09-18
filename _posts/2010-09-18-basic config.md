@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "交易所项目介绍"
-date:   2010-09-18
 categories: JavaScript
 tags: JavaScript Array 算法 慕课网
 ---
