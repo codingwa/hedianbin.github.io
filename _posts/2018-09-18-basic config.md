@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "交易所项目介绍"
-date:   2018-09-17 17:15:54 +0800
+date:   2018-09-17
 categories: JavaScript
 tags: JavaScript Array 算法 慕课网
 ---
