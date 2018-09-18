@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1269d847-bebf-4946-b8ad-e2abecc48bb5" name="Default Changelist" comment="" />
+    <list default="true" id="1269d847-bebf-4946-b8ad-e2abecc48bb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/waterfall.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/waterfall.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,13 +26,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CNAME" value="3" />
+          <entry key="CNAME" value="4" />
           <entry key="html" value="30" />
           <entry key="js" value="9" />
           <entry key="json" value="1" />
           <entry key="markdown" value="1" />
           <entry key="md" value="19" />
-          <entry key="yml" value="6" />
+          <entry key="yml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,15 +41,15 @@
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="9" />
           <entry key="Markdown" value="18" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="YAML" value="6" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="YAML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CNAME" value="24" />
           <entry key="html" value="46" />
-          <entry key="js" value="1" />
+          <entry key="js" value="2" />
           <entry key="md" value="5" />
           <entry key="txt" value="4" />
           <entry key="yml" value="50" />
@@ -56,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="46" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="28" />
           <entry key="YAML" value="50" />
@@ -68,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/waterfall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="507">
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -80,10 +82,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/3demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30" />
+            <state relative-caret-position="327">
+              <caret line="20" column="123" lean-forward="true" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -241,7 +245,7 @@
       <workItem from="1537190412497" duration="720000" />
       <workItem from="1537191646985" duration="9864000" />
       <workItem from="1537269846760" duration="32000" />
-      <workItem from="1537270756770" duration="1459000" />
+      <workItem from="1537270756770" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1537193365662</created>
@@ -254,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12075000" />
+    <option name="totallyTimeSpent" value="12765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="706" extended-state="0" />
@@ -291,13 +295,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -457,6 +454,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -464,19 +468,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page/3demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" column="123" lean-forward="true" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/waterfall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="507">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/3demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
       </provider>
     </entry>
   </component>
