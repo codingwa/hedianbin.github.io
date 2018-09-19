@@ -20,8 +20,10 @@ SQL是结构化查询语言（Structured Query Language）
 客户端使用SQL来操作服务器
 
 	启动mysql，会连接到服务器后，就可以使用sql来操作服务器了
-
+	
 	将来会使用python程序(也可以是其他程序，比如java)链接服务器，然后使用sql来操作服务器
+
+
 
 ### 1.3 SQL标准
 

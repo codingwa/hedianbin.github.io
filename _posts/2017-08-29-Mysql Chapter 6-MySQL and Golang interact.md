@@ -19,12 +19,14 @@ tags: MySQL,关系型数据库,Golang
 1.下载安装
 
 	A：Windows系统下载
-
+	
 	使用github.com/go-sql-driver/mysql这个驱动包，打开cmd窗口输入：go get 	github.com/go-sql-driver/mysql，会下载到你的GOPATH路径的src 下：
-
+	
 	![](http://om1c35wrq.bkt.clouddn.com/101mysql%E9%A9%B1%E5%8A%A81.bmp)
 
 如果没有安装git，需要先安装git。否则安装失败。
+
+
 
 下载后在有如下目录。
 
