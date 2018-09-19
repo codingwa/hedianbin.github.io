@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Golang基础之第1章-简介和配置"
-categories: JavaScript
-tags: JavaScript Array 算法 慕课网
+categories: Golang
+tags: Golang
 ---
 
 * content
@@ -23,6 +23,8 @@ tags: JavaScript Array 算法 慕课网
 Go也被称为Golang，它是由谷歌创建的一种开源、编译和静态类型的编程语言。
 
 Golang的主要目标是使高可用性和可伸缩的web应用程序的开发变得简单易行。
+
+
 
 ### 1.2 为什么选择Golang
 
