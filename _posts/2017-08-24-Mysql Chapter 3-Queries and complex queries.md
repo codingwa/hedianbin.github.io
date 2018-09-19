@@ -28,6 +28,9 @@ select {columns}
 2. 关键字不能被分行
 
 
+
+
+
 ## 一、简单查询
 
 select 的检索语句中，只有select ，以及from子句。也是一个select语句必须的。

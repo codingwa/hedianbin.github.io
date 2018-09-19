@@ -25,9 +25,14 @@ tags: MySQL,关系型数据库
 
   - 持久性(Durability)：对于任意已提交事务，系统必须保证该事务对数据库的改变不被丢失，即使数据库出现故障
 
+
 - 要求：表的类型必须是innodb或bdb类型，才可以对此表使用事务
 
 - 查看表的创建语句
+
+
+
+
 
 ```python
 show create table students;
