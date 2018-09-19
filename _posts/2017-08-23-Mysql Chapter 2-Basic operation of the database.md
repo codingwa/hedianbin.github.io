@@ -2,7 +2,7 @@
 layout: post
 title:  "MySQL数据库第2章-数据库的基本操作"
 categories: MySQL
-tags: MySQL,关系型数据库
+tags: MySQL 关系型数据库
 ---
 
 * content

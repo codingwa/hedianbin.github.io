@@ -2,7 +2,7 @@
 layout: post
 title:  "MySQL数据库第6章-MySQL和Golang交互"
 categories: MySQL Golang
-tags: MySQL,关系型数据库,Golang
+tags: MySQL 关系型数据库 Golang
 ---
 
 * content

@@ -2,7 +2,7 @@
 layout: post
 title:  "MySQL数据库第5章-MySQL和Python交互"
 categories: MySQL Python
-tags: MySQL,关系型数据库,Python
+tags: MySQL 关系型数据库 Python
 ---
 
 * content

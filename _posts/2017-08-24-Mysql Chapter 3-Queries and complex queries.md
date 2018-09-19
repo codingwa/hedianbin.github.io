@@ -2,7 +2,7 @@
 layout: post
 title:  "MySQL数据库第3章-简单查询和复杂查询"
 categories: MySQL
-tags: MySQL,关系型数据库
+tags: MySQL 关系型数据库
 ---
 
 * content
