@@ -23,12 +23,53 @@ type: page
 
 ## 掌握技术栈
 
-1.熟练掌握Golang开发语言，掌握goroutine,channel,gRPC等技术;<br/>2.熟悉nodejs后端开发语言，掌握koa框架的开发流程；<br />3.了解前端技术，HTML5、CSS、JavaScript、Jquery;<br />4.掌握sql和nosql数据库，Mysql，MongoDB,levelDB,CouchDB，BoltDB;<br />5.掌握主流Golang web开发框架，熟练掌握Beego框架，对RESTful API设计有一定理解;<br />6.熟悉常用数据结构和算法，对密码学，加密算法有研究;理解各类主流的共识算法原理;<br />7.熟悉分布式、缓存、消息等机制;使用过其常见的工具,Redis,etcd,docker,nginx,fastDFS;<br />8.有公链开发经验，使用Golang独立开发GodCoin比特币电子现金交易系统;<br />9.理解Bitcoin、Ethereum、Fabric的底层技术原理;了解UTXO模型，帐户模型，交易流程;<br />10.掌握solidity语法，编写过发币智能合约,了解solidity的各种应用场景;<br />11.使用Nodejs开发基于以太坊的多币种钱包和数字货币交易所项目，熟悉web3js的API调用;<br />12.熟练搭建fabric集群环境，掌握fabric的chaincode开发，使用fabric-sdk-go调用链码开发;<br />13.熟悉Linux操作系统，了解Docker容器技术的原理，使用过Docker部署fabric网络节点;<br />14.熟练阅读英文资料；
+1.熟练掌握Golang开发语言，掌握goroutine,channel,gRPC等技术;
+
+2.熟悉nodejs后端开发语言，掌握koa框架的开发流程；
+
+3.了解前端技术，HTML5、CSS、JavaScript、Jquery;
+
+4.掌握sql和nosql数据库，Mysql，MongoDB,levelDB,CouchDB，BoltDB;
+
+5.掌握主流Golang web开发框架，熟练掌握Beego框架，对RESTful API设计有一定理解;
+
+6.熟悉常用数据结构和算法，对密码学，加密算法有研究;理解各类主流的共识算法原理;
+
+7.熟悉分布式、缓存、消息等机制;使用过其常见的工具,Redis,etcd,docker,nginx,fastDFS;
+
+8.有公链开发经验，使用Golang独立开发GodCoin比特币电子现金交易系统;
+
+9.理解Bitcoin、Ethereum、Fabric的底层技术原理;了解UTXO模型，帐户模型，交易流程;
+
+10.掌握solidity语法，编写过发币智能合约,了解solidity的各种应用场景;
+
+11.使用Nodejs开发基于以太坊的多币种钱包和数字货币交易所项目，熟悉web3js的API调用;
+
+12.熟练搭建fabric集群环境，掌握fabric的chaincode开发，使用fabric-sdk-go调用链码开发;
+
+13.熟悉Linux操作系统，了解Docker容器技术的原理，使用过Docker部署fabric网络节点;
+
+14.熟练阅读英文资料；
 
 其他
-15.版本管理、文档编写：Git/Markdown<br/>16.有良好的编程习惯和开发文档写作能力<br/>17.有技术博客网站，有开源项目经验。<br/>
 
-对技术有热情，良好的团队协作精神和执行力，思维活跃，接受新事物能力强；<br/>具备较好的沟通和表达能力<br/>工作积极主动，富有责任心。 <br/>拥有优秀的发现和解决问题的能力，良好的沟通和团队协作能力，能承担一定压力；<br/>了解区块链的基本知识并坚信这是未来的方向。<br/>良好的理解和表达能力，理解 KISS 原则；<br/>
+15.版本管理、文档编写：Git/Markdown
+
+16.有良好的编程习惯和开发文档写作能力
+
+17.有技术博客网站，有开源项目经验。
+
+对技术有热情，良好的团队协作精神和执行力，思维活跃，接受新事物能力强；
+
+具备较好的沟通和表达能力
+
+工作积极主动，富有责任心。
+
+拥有优秀的发现和解决问题的能力，良好的沟通和团队协作能力，能承担一定压力；
+
+了解区块链的基本知识并坚信这是未来的方向。
+
+良好的理解和表达能力，理解 KISS 原则；
 
 ## 联系我
 
