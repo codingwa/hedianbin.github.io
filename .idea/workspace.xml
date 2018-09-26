@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1269d847-bebf-4946-b8ad-e2abecc48bb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/page/4about.md" beforeDir="false" afterPath="$PROJECT_DIR$/page/4about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,12 @@
     <session id="-590388476">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/waterfall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
+            <state relative-caret-position="476">
               <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -98,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -197,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,6 +229,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +264,8 @@
       <workItem from="1537190412497" duration="720000" />
       <workItem from="1537191646985" duration="9864000" />
       <workItem from="1537269846760" duration="32000" />
-      <workItem from="1537270756770" duration="3550000" />
+      <workItem from="1537270756770" duration="4146000" />
+      <workItem from="1537532626415" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1537193365662</created>
@@ -276,11 +278,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14166000" />
+    <option name="totallyTimeSpent" value="15360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="706" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="-1334" y="33" width="238" height="698" id="Project" order="0" visible="true" weight="0.21635687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -314,33 +315,26 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-6757" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README-zh-cn.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-10-welcome-to-jekyll.markdown">
+    <entry file="file://$PROJECT_DIR$/README-zh-cn.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-448" />
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-10-welcome-to-jekyll.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
@@ -366,16 +360,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-exchange.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="18" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-exchange.md" />
     <entry file="file://$PROJECT_DIR$/_site/CNAME" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-17-web-app.md" />
     <entry file="file://$PROJECT_DIR$/_site/tag/index.html" />
@@ -444,14 +429,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/category.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/3collections.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1030" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3collections.md" />
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -463,16 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/waterfall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -495,6 +463,16 @@
     <entry file="file://$PROJECT_DIR$/_includes/comments.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/waterfall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page/3demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -508,7 +486,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
