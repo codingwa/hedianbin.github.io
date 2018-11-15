@@ -7,6 +7,7 @@ tags: Golang bytes
 
 * content
 {:toc}
+
 # Golang之缓冲器bytes.Buffer
 
 ## 声明一个Buffer的四种方法：
