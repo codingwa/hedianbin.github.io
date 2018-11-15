@@ -2,7 +2,7 @@
 layout: post
 title:  "Golang之缓冲器bytes.Buffer"
 categories: Golang
-tags: Golang,bytes
+tags: Golang bytes
 ---
 
 * content
