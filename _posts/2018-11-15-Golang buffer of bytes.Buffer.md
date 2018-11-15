@@ -31,6 +31,8 @@ b.WriteTo(w io.Writer)  //将Buffer中的内容输出到实现了io.Writer接口
 
 注：将文件中的内容写入Buffer,则使用ReadForm(i io.Reader)
 
+
+
 ## 从Buffer中读取数据到指定容器
 c := make([]byte,8)
 
